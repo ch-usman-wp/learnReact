@@ -24,7 +24,7 @@ function App() {
       refElement.current.focus()
     }
     function colorChange(){
-      refElement.current.style.color="red"
+      refElement.current.style.color="green"
     }
 
   return (
